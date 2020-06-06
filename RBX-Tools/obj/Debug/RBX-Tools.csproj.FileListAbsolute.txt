@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FindGroup-Roblox\FindGroup-Roblox\bin\Debug\RBX-Tools.exe.config
+C:\Users\User\source\repos\FindGroup-Roblox\FindGroup-Roblox\bin\Debug\RBX-Tools.exe
+C:\Users\User\source\repos\FindGroup-Roblox\FindGroup-Roblox\bin\Debug\RBX-Tools.pdb
+C:\Users\User\source\repos\FindGroup-Roblox\FindGroup-Roblox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\FindGroup-Roblox\FindGroup-Roblox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\FindGroup-Roblox\FindGroup-Roblox\obj\Debug\RBX-Tools.csproj.CopyComplete
+C:\Users\User\source\repos\FindGroup-Roblox\FindGroup-Roblox\obj\Debug\RBX-Tools.exe
+C:\Users\User\source\repos\FindGroup-Roblox\FindGroup-Roblox\obj\Debug\RBX-Tools.pdb
+C:\Users\User\source\repos\FindGroup-Roblox\RBX-Tools\obj\Debug\RBX-Tools.exe
+C:\Users\User\source\repos\FindGroup-Roblox\RBX-Tools\obj\Debug\RBX-Tools.pdb
+C:\Users\User\source\repos\FindGroup-Roblox\RBX-Tools\bin\Debug\RBX-Tools.exe.config
+C:\Users\User\source\repos\FindGroup-Roblox\RBX-Tools\bin\Debug\RBX-Tools.exe
+C:\Users\User\source\repos\FindGroup-Roblox\RBX-Tools\bin\Debug\RBX-Tools.pdb
+C:\Users\User\source\repos\FindGroup-Roblox\RBX-Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\FindGroup-Roblox\RBX-Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\FindGroup-Roblox\RBX-Tools\obj\Debug\RBX-Tools.csproj.CopyComplete
